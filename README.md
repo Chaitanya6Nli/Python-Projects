@@ -1,4 +1,4 @@
-💬Python Projects Ideas For Beginners -
+# 💬Python Projects Ideas For Beginners -
 
 The Python programming language has garnered widespread adoption across a multitude of technical domains, including data science, web development, and machine learning. For aspiring Python programmers, however, the initial learning curve can present a significant challenge. This meticulously curated resource addresses this very need by meticulously outlining a curriculum comprised of strategically chosen Python project ideas for beginners.
 
@@ -6,11 +6,11 @@ We will embark on an exploration that encompasses both command-line and graphica
 
 By diligently following this structured approach, you will be empowered to embark on your journey as a Python programmer. Let us start!
 
-🤔What is Python?
+## 🤔What is Python?
 
 ➡️Python is a high-level, general-purpose programming language renowned for its readability, versatility, and extensive libraries. This beginner-friendly guide explores the key characteristics of Python and its applications in various domains.
 
-📍Key Features of Python-
+### 📍Key Features of Python-
 
 1.Readability: Python's syntax emphasizes clear and concise code, making it a perfect language for beginners.
 
@@ -28,15 +28,13 @@ By diligently following this structured approach, you will be empowered to embar
 
 8.Extensive Libraries & Frameworks: The vast Python Package Index (PyPI) offers a multitude of pre-written code for various functionalities, saving development time.
 
-🤔Why Choose Python?
+## 🤔Why Choose Python?
 
 ➡️1.Beginner-Friendly: Python's clear syntax and ample learning resources make it an ideal first programming language.
 2.In-Demand Skill: Python proficiency is highly sought-after in today's job market.
 3.Open-Source & Free: Python is free to use and modify, with a large and supportive community.
 
-✳️Table of Content:
-
-✴️Top 7 Python Project Ideas for Beginners in 2024-
+### ✳️Table of Content :
 
 A. Command Line Interface Based Projects-
 1. Hangman Game
